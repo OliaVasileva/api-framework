@@ -1,0 +1,41 @@
+[ {
+  "uid" : "9b216a3830f39ec",
+  "name" : "Удаление любого случайного кота",
+  "time" : {
+    "start" : 1626959763867,
+    "stop" : 1626959764820,
+    "duration" : 953
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22e432bbf6dfe5df",
+  "name" : "allure3",
+  "time" : {
+    "start" : 1626954769524,
+    "stop" : 1626954769717,
+    "duration" : 193
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "8297575aa6e6b729",
+  "name" : "allure",
+  "time" : {
+    "start" : 1626954769041,
+    "stop" : 1626954769305,
+    "duration" : 264
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f66a2dcc24c3e6bd",
+  "name" : "allure2",
+  "time" : {
+    "start" : 1626954769309,
+    "stop" : 1626954769522,
+    "duration" : 213
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

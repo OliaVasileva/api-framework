@@ -1,0 +1,551 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "b07ef34538b43b94",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626957583554,
+      "stop" : 1626957584557,
+      "duration" : 1003
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "7034794c5d6fb1a7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626953265245,
+      "stop" : 1626953266281,
+      "duration" : 1036
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure3",
+    "uid" : "e9285ce9c5cf28f7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626951719495,
+      "stop" : 1626951719683,
+      "duration" : 188
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "9b216a3830f39ec",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626959763867,
+      "stop" : 1626959764820,
+      "duration" : 953
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure3",
+    "uid" : "22e432bbf6dfe5df",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626954769524,
+      "stop" : 1626954769717,
+      "duration" : 193
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "d58e265768db460",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626958354850,
+      "stop" : 1626958355721,
+      "duration" : 871
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "7d8549285010a87e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626957895620,
+      "stop" : 1626957896538,
+      "duration" : 918
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "84b00abb101f0b61",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626958015051,
+      "stop" : 1626958015935,
+      "duration" : 884
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "e3acf26e1cc16054",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626959446921,
+      "stop" : 1626959447884,
+      "duration" : 963
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "6b0145f10ba05ec1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626955035428,
+      "stop" : 1626955036469,
+      "duration" : 1041
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "9d6295a420124c4e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626958189612,
+      "stop" : 1626958190534,
+      "duration" : 922
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "74084830bf1f0336",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626953021078,
+      "stop" : 1626953022010,
+      "duration" : 932
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "a15c470c4c2a9a20",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626957115216,
+      "stop" : 1626957116146,
+      "duration" : 930
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "e3684b2661aab54d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626955301269,
+      "stop" : 1626955302302,
+      "duration" : 1033
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "edb795443eb62178",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626957389204,
+      "stop" : 1626957390146,
+      "duration" : 942
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "b7c2ec447b0d56b8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626958238073,
+      "stop" : 1626958239012,
+      "duration" : 939
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "5da3da890acdf3a3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626953953669,
+      "stop" : 1626953954672,
+      "duration" : 1003
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "3ffde2e73c191e83",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626958116187,
+      "stop" : 1626958117143,
+      "duration" : 956
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure2",
+    "uid" : "9a70d431302479cb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626950933076,
+      "stop" : 1626950933288,
+      "duration" : 212
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "bda912691490d15d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626953149610,
+      "stop" : 1626953150493,
+      "duration" : 883
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure",
+    "uid" : "fcc105b7f8eb2e4a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626950932813,
+      "stop" : 1626950933073,
+      "duration" : 260
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure2",
+    "uid" : "b93843f4319605b1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626902532099,
+      "stop" : 1626902532345,
+      "duration" : 246
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "973adfdaf0fa9da1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626952824483,
+      "stop" : 1626952825423,
+      "duration" : 940
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "8390a363bfbc15c8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626952026955,
+      "stop" : 1626952027911,
+      "duration" : 956
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure",
+    "uid" : "6bfc067056943c6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626951719010,
+      "stop" : 1626951719288,
+      "duration" : 278
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "784fb1b9b3869169",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626958566890,
+      "stop" : 1626958567790,
+      "duration" : 900
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "def9f5cd73533001",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626957526913,
+      "stop" : 1626957527866,
+      "duration" : 953
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure3",
+    "uid" : "84e8602ad343f7d0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626950933290,
+      "stop" : 1626950933494,
+      "duration" : 204
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "f3560ec40b036cee",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626955876053,
+      "stop" : 1626955876098,
+      "duration" : 45
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure2",
+    "uid" : "f66a2dcc24c3e6bd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1626954769309,
+      "stop" : 1626954769522,
+      "duration" : 213
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure",
+    "uid" : "a977318bb9035dfd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626902531831,
+      "stop" : 1626902532092,
+      "duration" : 261
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "279e890daa912ff9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626956037639,
+      "stop" : 1626956038608,
+      "duration" : 969
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "bfb86a0f29dc68d2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626955253769,
+      "stop" : 1626955254710,
+      "duration" : 941
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure3",
+    "uid" : "c025fd30633ac773",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626902532347,
+      "stop" : 1626902532553,
+      "duration" : 206
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "e519f74973c33a82",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626953754523,
+      "stop" : 1626953755476,
+      "duration" : 953
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "d4e3a7ad5c76e1d2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626955355081,
+      "stop" : 1626955356017,
+      "duration" : 936
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure",
+    "uid" : "8297575aa6e6b729",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626954769041,
+      "stop" : 1626954769305,
+      "duration" : 264
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "59ad53726f7b1091",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626951796591,
+      "stop" : 1626951797664,
+      "duration" : 1073
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "fa4c6bf755cba79b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626955482012,
+      "stop" : 1626955482938,
+      "duration" : 926
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "11856daeaa89462a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626952666222,
+      "stop" : 1626952667167,
+      "duration" : 945
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure2",
+    "uid" : "949b06f6dbfad30f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1626951719291,
+      "stop" : 1626951719494,
+      "duration" : 203
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Удаление любого случайного кота",
+    "uid" : "32d36319834d8eae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1626957187882,
+      "stop" : 1626957188841,
+      "duration" : 959
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

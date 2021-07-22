@@ -21,7 +21,7 @@ describe('Проверка имени кота', async () => {
 
   it('allure2', async () => {
     const name = 'Вики';
-    const id = 101368;
+    const id = 2255901;
 
     const response = await allure.step(
       `выполнен запрос GET /get-by-id c параметром ${id}`,

@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 22 16:16:03 MSK 2021","Thu Jul 22 16:16:04 MSK 2021","953","Проверка удаления котов","","","","","Удаление любого случайного кота",""
+"broken","Thu Jul 22 14:52:49 MSK 2021","Thu Jul 22 14:52:49 MSK 2021","193","Проверка имени кота","","","","","allure3",""
+"broken","Thu Jul 22 14:52:49 MSK 2021","Thu Jul 22 14:52:49 MSK 2021","264","Проверка имени кота","","","","","allure",""
+"failed","Thu Jul 22 14:52:49 MSK 2021","Thu Jul 22 14:52:49 MSK 2021","213","Проверка имени кота","","","","","allure2",""

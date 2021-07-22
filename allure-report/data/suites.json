@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Проверка имени кота",
+    "children" : [ {
+      "name" : "allure",
+      "uid" : "8297575aa6e6b729",
+      "parentUid" : "e0eedae22962963e1c8bf46bbeb96cb3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1626954769041,
+        "stop" : 1626954769305,
+        "duration" : 264
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "allure2",
+      "uid" : "f66a2dcc24c3e6bd",
+      "parentUid" : "e0eedae22962963e1c8bf46bbeb96cb3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1626954769309,
+        "stop" : 1626954769522,
+        "duration" : 213
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "allure3",
+      "uid" : "22e432bbf6dfe5df",
+      "parentUid" : "e0eedae22962963e1c8bf46bbeb96cb3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1626954769524,
+        "stop" : 1626954769717,
+        "duration" : 193
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e0eedae22962963e1c8bf46bbeb96cb3"
+  }, {
+    "name" : "Проверка удаления котов",
+    "children" : [ {
+      "name" : "Удаление любого случайного кота",
+      "uid" : "9b216a3830f39ec",
+      "parentUid" : "1e765b8c62ac510e381714b1d658a89d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626959763867,
+        "stop" : 1626959764820,
+        "duration" : 953
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1e765b8c62ac510e381714b1d658a89d"
+  } ]
+}

@@ -1,0 +1,14 @@
+{
+  "data": null,
+  "isBoom": true,
+  "isServer": false,
+  "output": {
+    "statusCode": 404,
+    "payload": {
+      "statusCode": 404,
+      "error": "Not Found",
+      "message": "Кот с id=102376 не найден"
+    },
+    "headers": {}
+  }
+}

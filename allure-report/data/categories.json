@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Cannot read property 'name' of undefined",
+      "children" : [ {
+        "name" : "allure",
+        "uid" : "8297575aa6e6b729",
+        "parentUid" : "f22023111ba94a7fc1c83826a7f2fd1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626954769041,
+          "stop" : 1626954769305,
+          "duration" : 264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allure3",
+        "uid" : "22e432bbf6dfe5df",
+        "parentUid" : "f22023111ba94a7fc1c83826a7f2fd1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626954769524,
+          "stop" : 1626954769717,
+          "duration" : 193
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f22023111ba94a7fc1c83826a7f2fd1c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Имена не соответствуют: expected 'Балдрик' to equal 'Вики'",
+      "children" : [ {
+        "name" : "allure2",
+        "uid" : "f66a2dcc24c3e6bd",
+        "parentUid" : "5e0c49544cebe3792969924bde02f3f5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1626954769309,
+          "stop" : 1626954769522,
+          "duration" : 213
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5e0c49544cebe3792969924bde02f3f5"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

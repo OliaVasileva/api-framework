@@ -1,0 +1,131 @@
+{
+  "uid" : "22e432bbf6dfe5df",
+  "name" : "allure3",
+  "fullName" : "allure3",
+  "historyId" : "149999b4fca129d17b6917de93896645",
+  "time" : {
+    "start" : 1626954769524,
+    "stop" : 1626954769717,
+    "duration" : 193
+  },
+  "status" : "broken",
+  "statusMessage" : "Cannot read property 'name' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'name' of undefined\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\tests\\demo_allure_test.ts:66:62\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-js-commons\\src\\ExecutableItemWrapper.ts:83:18\n    at StepWrapper.run (node_modules\\allure-mocha\\src\\StepWrapper.ts:19:32)\n    at MochaAllure.step (node_modules\\allure-mocha\\src\\MochaAllure.ts:38:28)\n    at Context.<anonymous> (tests\\demo_allure_test.ts:64:18)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Cannot read property 'name' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'name' of undefined\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\tests\\demo_allure_test.ts:66:62\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-js-commons\\src\\ExecutableItemWrapper.ts:83:18\n    at StepWrapper.run (node_modules\\allure-mocha\\src\\StepWrapper.ts:19:32)\n    at MochaAllure.step (node_modules\\allure-mocha\\src\\MochaAllure.ts:38:28)\n    at Context.<anonymous> (tests\\demo_allure_test.ts:64:18)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+    "steps" : [ {
+      "name" : "выполнен запрос GET /get-by-id c параметром 101368",
+      "time" : {
+        "start" : 1626954769525,
+        "stop" : 1626954769716,
+        "duration" : 191
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bf0ed9fb1cfac40f",
+        "name" : "attachment",
+        "source" : "bf0ed9fb1cfac40f.json",
+        "type" : "application/json",
+        "size" : 251
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "выполнена проверка соответствия значения имен кота из запроса с ожидаемым",
+      "time" : {
+        "start" : 1626954769716,
+        "stop" : 1626954769717,
+        "duration" : 1
+      },
+      "status" : "broken",
+      "statusMessage" : "Cannot read property 'name' of undefined",
+      "statusTrace" : "TypeError: Cannot read property 'name' of undefined\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\tests\\demo_allure_test.ts:66:62\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-js-commons\\src\\ExecutableItemWrapper.ts:83:18\n    at StepWrapper.run (C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-mocha\\src\\StepWrapper.ts:19:32)\n    at MochaAllure.step (C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-mocha\\src\\MochaAllure.ts:38:28)\n    at Context.<anonymous> (C:\\Users\\onjel\\WebstormProjects\\api-framework\\tests\\demo_allure_test.ts:64:18)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Проверка имени кота"
+  }, {
+    "name" : "feature",
+    "value" : "Получение котика по id"
+  }, {
+    "name" : "severity",
+    "value" : "BLOCKER"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "get_by_id",
+    "url" : "https://meowle.qa-fintech.ru/api/core/api-docs-ui/#/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA/get_cats_get_by_id"
+  }, {
+    "name" : "JIRA-1245",
+    "url" : "https://jira.qa-fintech.ru/",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "e9285ce9c5cf28f7",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'name' of undefined",
+      "time" : {
+        "start" : 1626951719495,
+        "stop" : 1626951719683,
+        "duration" : 188
+      }
+    }, {
+      "uid" : "84e8602ad343f7d0",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'name' of undefined",
+      "time" : {
+        "start" : 1626950933290,
+        "stop" : 1626950933494,
+        "duration" : 204
+      }
+    }, {
+      "uid" : "c025fd30633ac773",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'name' of undefined",
+      "time" : {
+        "start" : 1626902532347,
+        "stop" : 1626902532553,
+        "duration" : 206
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "22e432bbf6dfe5df.json",
+  "parameterValues" : [ ]
+}

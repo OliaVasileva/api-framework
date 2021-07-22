@@ -11,7 +11,7 @@ describe('Проверка функционала добавления кото�
   });
 
   it('Поиск существующего кота', async () => {
-    const expName = 'Бал';
+    const expName = 'Балллллл';
 
     const response = await CoreApi.searchCatByPartName(expName);
     if (response.status === 404) {

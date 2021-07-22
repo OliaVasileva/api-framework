@@ -1,0 +1,85 @@
+{
+  "uid" : "9a70d431302479cb",
+  "name" : "allure2",
+  "fullName" : "allure2",
+  "historyId" : "bc608bc9ce4b5740277829db22b2c334",
+  "time" : {
+    "start" : 1626950933076,
+    "stop" : 1626950933288,
+    "duration" : 212
+  },
+  "status" : "broken",
+  "statusMessage" : "Cannot read property 'name' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'name' of undefined\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\tests\\demo_allure_test.ts:42:57\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-js-commons\\src\\ExecutableItemWrapper.ts:83:18\n    at StepWrapper.run (node_modules\\allure-mocha\\src\\StepWrapper.ts:19:32)\n    at MochaAllure.step (node_modules\\allure-mocha\\src\\MochaAllure.ts:38:28)\n    at Context.<anonymous> (tests\\demo_allure_test.ts:39:18)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Cannot read property 'name' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'name' of undefined\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\tests\\demo_allure_test.ts:42:57\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-js-commons\\src\\ExecutableItemWrapper.ts:83:18\n    at StepWrapper.run (node_modules\\allure-mocha\\src\\StepWrapper.ts:19:32)\n    at MochaAllure.step (node_modules\\allure-mocha\\src\\MochaAllure.ts:38:28)\n    at Context.<anonymous> (tests\\demo_allure_test.ts:39:18)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+    "steps" : [ {
+      "name" : "выполнен запрос GET /get-by-id c параметром 101368",
+      "time" : {
+        "start" : 1626950933076,
+        "stop" : 1626950933269,
+        "duration" : 193
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b6529841f1a4e03e",
+        "name" : "attachment",
+        "source" : "b6529841f1a4e03e.json",
+        "type" : "application/json",
+        "size" : 251
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "выполнена проверка соответствия значения имен кота из запроса с ожидаемым",
+      "time" : {
+        "start" : 1626950933276,
+        "stop" : 1626950933288,
+        "duration" : 12
+      },
+      "status" : "broken",
+      "statusMessage" : "Cannot read property 'name' of undefined",
+      "statusTrace" : "TypeError: Cannot read property 'name' of undefined\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\tests\\demo_allure_test.ts:42:57\n    at C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-js-commons\\src\\ExecutableItemWrapper.ts:83:18\n    at StepWrapper.run (C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-mocha\\src\\StepWrapper.ts:19:32)\n    at MochaAllure.step (C:\\Users\\onjel\\WebstormProjects\\api-framework\\node_modules\\allure-mocha\\src\\MochaAllure.ts:38:28)\n    at Context.<anonymous> (C:\\Users\\onjel\\WebstormProjects\\api-framework\\tests\\demo_allure_test.ts:39:18)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Проверка имени кота"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a70d431302479cb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,109 @@
+{
+  "uid" : "973adfdaf0fa9da1",
+  "name" : "Удаление любого случайного кота",
+  "fullName" : "Удаление любого случайного кота",
+  "historyId" : "fe9ae473a4fbb1573d2041f7d8a5f397",
+  "time" : {
+    "start" : 1626952824483,
+    "stop" : 1626952825423,
+    "duration" : 940
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Выполнен запрос GET / cats/all",
+      "time" : {
+        "start" : 1626952825004,
+        "stop" : 1626952825004,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Случайным образом выбрали кота с id: 101274 и именем:Аилса",
+      "time" : {
+        "start" : 1626952825004,
+        "stop" : 1626952825004,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Выполнен запрос DELETE / cats/{catid}/remove с параметром catid: 101274",
+      "time" : {
+        "start" : 1626952825210,
+        "stop" : 1626952825210,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Выполнен запрос GET / get-by-id с параметром id: 101274",
+      "time" : {
+        "start" : 1626952825422,
+        "stop" : 1626952825422,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "35b43ea37c1afa1e",
+      "name" : "Случайный кот",
+      "source" : "35b43ea37c1afa1e.json",
+      "type" : "application/json",
+      "size" : 134
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Проверка удаления котов"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "973adfdaf0fa9da1.json",
+  "parameterValues" : [ ]
+}

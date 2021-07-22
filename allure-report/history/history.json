@@ -1,0 +1,81 @@
+{
+  "bcf5582ba8e49cdcdb5ccb872a6503f0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8297575aa6e6b729",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'name' of undefined",
+      "time" : {
+        "start" : 1626954769041,
+        "stop" : 1626954769305,
+        "duration" : 264
+      }
+    } ]
+  },
+  "149999b4fca129d17b6917de93896645" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22e432bbf6dfe5df",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'name' of undefined",
+      "time" : {
+        "start" : 1626954769524,
+        "stop" : 1626954769717,
+        "duration" : 193
+      }
+    } ]
+  },
+  "bc608bc9ce4b5740277829db22b2c334" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f66a2dcc24c3e6bd",
+      "status" : "failed",
+      "statusDetails" : "Имена не соответствуют: expected 'Балдрик' to equal 'Вики'",
+      "time" : {
+        "start" : 1626954769309,
+        "stop" : 1626954769522,
+        "duration" : 213
+      }
+    } ]
+  },
+  "fe9ae473a4fbb1573d2041f7d8a5f397" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b216a3830f39ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626959763867,
+        "stop" : 1626959764820,
+        "duration" : 953
+      }
+    } ]
+  }
+}
