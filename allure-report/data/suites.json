@@ -2,64 +2,42 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "Проверка имени кота",
+    "name" : "Проверка функционала лайков/дизлайков",
     "children" : [ {
-      "name" : "allure",
-      "uid" : "8297575aa6e6b729",
-      "parentUid" : "e0eedae22962963e1c8bf46bbeb96cb3",
-      "status" : "broken",
-      "time" : {
-        "start" : 1626954769041,
-        "stop" : 1626954769305,
-        "duration" : 264
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
+      "name" : "Проверка функционала лайков",
+      "children" : [ {
+        "name" : "Добавление лайков",
+        "uid" : "aec20786fd814b70",
+        "parentUid" : "d121383370e09bf68b69abc251cef114",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627031705994,
+          "stop" : 1627031707709,
+          "duration" : 1715
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d121383370e09bf68b69abc251cef114"
     }, {
-      "name" : "allure2",
-      "uid" : "f66a2dcc24c3e6bd",
-      "parentUid" : "e0eedae22962963e1c8bf46bbeb96cb3",
-      "status" : "failed",
-      "time" : {
-        "start" : 1626954769309,
-        "stop" : 1626954769522,
-        "duration" : 213
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "allure3",
-      "uid" : "22e432bbf6dfe5df",
-      "parentUid" : "e0eedae22962963e1c8bf46bbeb96cb3",
-      "status" : "broken",
-      "time" : {
-        "start" : 1626954769524,
-        "stop" : 1626954769717,
-        "duration" : 193
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
+      "name" : "Проверка функционала дизлайков",
+      "children" : [ {
+        "name" : "Добавление дизлайков",
+        "uid" : "72d7119d81cb3c8b",
+        "parentUid" : "3efef5e853cd4a8253ec5b28a6339dbc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1627031708533,
+          "stop" : 1627031710079,
+          "duration" : 1546
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3efef5e853cd4a8253ec5b28a6339dbc"
     } ],
-    "uid" : "e0eedae22962963e1c8bf46bbeb96cb3"
-  }, {
-    "name" : "Проверка удаления котов",
-    "children" : [ {
-      "name" : "Удаление любого случайного кота",
-      "uid" : "9b216a3830f39ec",
-      "parentUid" : "1e765b8c62ac510e381714b1d658a89d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626959763867,
-        "stop" : 1626959764820,
-        "duration" : 953
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "1e765b8c62ac510e381714b1d658a89d"
+    "uid" : "bbd848c42a27ce370503225d603a8914"
   } ]
 }

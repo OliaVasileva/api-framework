@@ -1,7 +1,1 @@
-[ {
-  "values" : [ "axios" ],
-  "name" : "lib"
-}, {
-  "values" : [ "0.21.1" ],
-  "name" : "v"
-} ]
+[ ]
